@@ -36,18 +36,30 @@ A project Manager oversees the planning,execution and delivery of software proje
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
+IDEs is a sotware application that provides facilities for software development.Example Intelli J IDEA. They  are designed to maximize a programmer's productivity by providing components similar to a user interface.
+VCS are software tools that help software teams manage changes to source code over time. Eg Git
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+Tight deadlines to deliver software products can lead to low quality products
+Change of requirements by clients may lead to project delays
+Technical debts from accrued shortcuts which can affect future development efforts.
+Software engineers can overcome these challenges by communicating effectively,prioritizing urgent tasks and assessing project goals and timelines regularly
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+Unit testing involves testing individual modules of software
+Integration Testing is testing interactions between various subsystems
+Acceptance testing is testing software against user requirement to ensure it meets user needs.
 
+Testing of software is important as it helps identify and fixdefectsearly in the development process leading to high quality software
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engineering id the process of craftingsn instructio in order to produce its best possible output from a genertive artificial intelligence model.
+Prompt engineering makes it easy for users to obtain the best results in the first prompt,thus improving accuracy and efficiency.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+ Vague prompt- What is the role of a software engineer
+ Specific -What is the role of a software engineer in developing and maintaining systems.
