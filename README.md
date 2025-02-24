@@ -16,7 +16,12 @@ The rise of agile methodologies in 2000s
 
 
 List and briefly explain the phases of the Software Development Life Cycle.
-
+Requirements-Involves gathering and documenting the needs of a user and system requirements
+Designing-Creating high level and detailed designs of the software architecture and user interface
+Implementation- Writing codes and building software accirding to the design specifications
+Testing-Testing the software to ensure its functional and meets quality standards
+Deployment of the software to the users
+Maintainance- Providing ongoing support, updates and enhancements to the software
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
