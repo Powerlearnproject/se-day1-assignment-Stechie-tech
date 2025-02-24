@@ -30,6 +30,9 @@ Waterfall is a sequential approach to software development where each project ph
 Agile emphasizes on itinerative development cycles,continous collaboration with the customer and repid adaptation to changing client requirements. It's used on high risks projects,where customer feedback is crucial
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+A software developer is responsible for writing codes and implementing software solutions
+A   quality Assurance Engineer ensures software quality by designing and executing tests
+A project Manager oversees the planning,execution and delivery of software projects
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
