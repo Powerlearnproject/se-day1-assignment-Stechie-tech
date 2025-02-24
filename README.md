@@ -25,7 +25,9 @@ Maintainance- Providing ongoing support, updates and enhancements to the softwar
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+Waterfall is a sequential approach to software development where each project phase must be fully completed  before moving to the next phase,with each phase cascading into the next. It's maily preferred on projects with predictable timelines and budgets,where changes expected are crucial and the project has low risks.
 
+Agile emphasizes on itinerative development cycles,continous collaboration with the customer and repid adaptation to changing client requirements. It's used on high risks projects,where customer feedback is crucial
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
 
